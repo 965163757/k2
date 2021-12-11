@@ -19,3 +19,4 @@ git clone https://github.com/CHN-beta/rkp-ipid package/rkp-ipid
 git clone https://github.com/DFlinmo/UA2F package/UA2F
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/MentoHUST-OpenWrt-ipk
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
+git clone https://github.com/ysc3839/openwrt-minieap.git package/minieap
